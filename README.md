@@ -1,14 +1,10 @@
-[go here](#custom)
+##Title
 
-This is a test repository
-a
+###[Place 1](#Place-2)<span id="place1">HelloWorld</span>
 
-a
+Hello, this is some text to fill in this, [here](#place2), is a link to the second 
+place.
 
-a
+###Place 2(#Place-1)<span id="place2">HelloWorld</span>
 
-a
-
-a
-a
-### My Great Heading {#custom}
+Place one has the fun times of linking here, but I can also link back [here](#place1).
