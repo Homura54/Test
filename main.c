@@ -1,9 +1,6 @@
 #include<stdio.h>
 
-test();
-
-int lib(){
+int main(){
 	printf("Hey");
-	test();
 	return 0;
 }
