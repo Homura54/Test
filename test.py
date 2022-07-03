@@ -1,3 +1,3 @@
 a=int(input())
-b=in(input())
-print("Multiplication : ", ab)
+b=int(input())
+print("Multiplication : ", a*b)
